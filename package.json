@@ -1,6 +1,6 @@
 {
   "name": "sadginate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sadginate word ending in 'ad'",
   "main": "index.js",
   "scripts": {
