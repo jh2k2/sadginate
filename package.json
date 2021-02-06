@@ -1,0 +1,19 @@
+{
+  "name": "sadginate",
+  "version": "1.0.0",
+  "description": "sadginate word ending in 'ad'",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install sadginate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jh2k2/sadginate.git"
+  },
+  "author": "Jerry Hsieh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jh2k2/sadginate/issues"
+  },
+  "homepage": "https://github.com/jh2k2/sadginate#readme"
+}
